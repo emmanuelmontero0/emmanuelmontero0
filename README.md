@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmanuelmontero
 - 👀 I’m interested in wed developer 
-- 🌱 I’m currently learning growth wed
+- 🌱 I’m currently learning growth web
 - 💞️ I’m looking to collaborate on apps weds 
 - 📫 How to reach me @emmanuelmontero077@gmail.com
 
